@@ -1,1 +1,2 @@
-Music_Store_Analysis_In_SQL
+Music_Store_Analysis
+  "Music Store Analysis in SQL"  
